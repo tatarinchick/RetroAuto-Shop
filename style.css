@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 20px;
+    background-color: #db4a11;
+    color: rgb(249, 253, 0);
+}
+
+a {
+    text-decoration: none;
+    color: #ff000080;
+    display: block;
+    margin: 20px 15px;
+}
+
+p {
+    margin: 20px 0;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+div {
+    width: 60%;
+    background-color: rgb(77, 50, 194);
+    margin: auto;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    padding: 20px;
+}
