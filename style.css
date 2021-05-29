@@ -19,8 +19,8 @@ body{
    
 }
 .card{
-   width:550px;
-   height:400px;
+   width:240px;
+   height:290px;
    border: 3px solid #c3a655;
    background-color: #eeeeee;
    border-radius: 1px;
@@ -49,6 +49,6 @@ body{
     width: 80%;
     margin: 0 auto ;
     display: flex;
-    justify-content: center;
-    /* flex-wrap: wrap; */
+/*     justify-content: center; */
+    flex-wrap: wrap;
 }
