@@ -16,7 +16,7 @@
 body{
     background-color: #70560d;
     background-image: url('https://million-wallpapers.ru/wallpapers/5/47/443414716144002/gonochnyj-avtomobil-retro.jpg');
-   
+   background-size: cover;
 }
 .card{
    width:240px;
